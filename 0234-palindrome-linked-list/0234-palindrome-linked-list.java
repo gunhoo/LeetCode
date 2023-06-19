@@ -10,19 +10,25 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        int mid = 0;
-        ListNode tmp = head;
-        ArrayDeque<Integer> total = new ArrayDeque<>();
-        
-        while(tmp.next != null){
-            total.add(tmp.val);
-            tmp = tmp.next;
-            mid++;
+        ListNode slow = head, fast = head, prev, temp;
+        while(fast != null && fast.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
         }
-        total.add(tmp.val);
-        for(int i = 0 ; i < (mid+1)/2 ; i++){
-            if(head.val != total.removeLast()) return false;
+        prev = slow;
+        slow = slow.next;
+        prev.next = null;
+        while(slow != null){
+            temp = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = temp;
+        }
+        slow = prev;
+        while(slow != null){
+            if(head.val != slow.val) return false;
             head = head.next;
+            slow = slow.next;
         }
         return true;
     }
