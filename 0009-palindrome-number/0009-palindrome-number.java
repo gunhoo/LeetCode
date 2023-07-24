@@ -1,11 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x < 0) return false;
+        if(x < 0 || x != 0 && x % 10 == 0) return false;
         else if(x == 0) return true;
-        String str = ""+x;
-        for(int i = 0; i < str.length()/2 ; i++){
-            if(str.charAt(i) != str.charAt(str.length()-i-1)) return false;
+        
+        int idx = x;
+        int reserved = 0;
+        
+        while(idx != 0){
+            reserved = (reserved * 10) + (idx % 10);
+            idx /= 10;
         }
-        return true;
+        if(reserved == x) return true;
+        return false;
     }
 }
