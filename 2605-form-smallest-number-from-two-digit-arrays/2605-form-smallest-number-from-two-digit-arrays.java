@@ -10,8 +10,8 @@ class Solution {
                 if(a == b){
                     if(min > a) min = a;
                 }else{
-                    if(Integer.parseInt(a+""+b) < min) min = Integer.parseInt(a+""+b);
-                    if(Integer.parseInt(b+""+a) < min) min = Integer.parseInt(b+""+a);
+                    if(a*10+b < min) min = a*10+b;
+                    if(b*10+a < min) min = b*10+a;
                 }
             }
             if(min / 10 == 0) break;
