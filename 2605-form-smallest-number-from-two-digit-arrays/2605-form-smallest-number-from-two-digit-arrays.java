@@ -14,6 +14,7 @@ class Solution {
                     if(Integer.parseInt(b+""+a) < min) min = Integer.parseInt(b+""+a);
                 }
             }
+            if(min / 10 == 0) break;
         }
         return min;
     }
