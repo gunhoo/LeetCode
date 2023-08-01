@@ -13,7 +13,6 @@ class Solution {
         for(int i = 0; i < guards.length; i++){
             go(guards[i][0], guards[i][1], n, m);
         }
-        print(m,n);
         return ans;
     }
     
