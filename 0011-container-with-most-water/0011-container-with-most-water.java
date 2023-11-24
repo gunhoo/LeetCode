@@ -1,8 +1,8 @@
 class Solution {
     public int maxArea(int[] height) {
-        int left = 0;
-        int right = height.length - 1;
-        int answer = 0;
+        int left = 0, answer = 0, right = height.length - 1;
+        
+        if(height.length == 1 ) return 1;
         
         while (left < right) {
             int w = right - left;
