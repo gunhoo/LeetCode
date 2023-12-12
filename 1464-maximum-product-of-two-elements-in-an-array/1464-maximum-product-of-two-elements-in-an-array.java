@@ -1,9 +1,14 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
-        for(int i = 0 ; i < nums.length; i++){
-            pq.add(nums[i]);
+        int biggest = 0, secondBiggest = 0;
+        for(int i = 0; i < nums.length; i++){
+            if (nums[i] > biggest) {
+                secondBiggest = biggest;
+                biggest = nums[i];
+            } else {
+               secondBiggest = Math.max(secondBiggest, nums[i]);
+            }
         }
-        return (pq.remove()-1) * (pq.remove()-1);
+        return (biggest-1)*(secondBiggest-1);
     }
 }
