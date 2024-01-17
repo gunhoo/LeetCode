@@ -10,7 +10,7 @@ class Solution {
            for(int j=0; j<n; j++) {
                if(grid[i][j] == '1') {
                    answer++;
-                   Queue<Point> q = new ArrayDeque<>();
+                   Queue<Point> q = new LinkedList<>();
                    q.add(new Point(i, j));
                    while(!q.isEmpty()){
                        Point p = q.poll();
