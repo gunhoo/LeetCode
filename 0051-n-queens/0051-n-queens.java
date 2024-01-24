@@ -6,7 +6,6 @@ class Solution {
             
             for(int j=0; j<n; j++){
                 if(j==i) map[0][j] = 'Q';
-                else map[0][j] = '.';
             }
             for(int j=1;j<n; j++) {
                 map[j][i] = '.';
@@ -62,16 +61,5 @@ class Solution {
             listedMap.add(sb.toString());
         }
         answer.add(listedMap);
-    }
-    
-    private void printMap(char[][] map){
-        int n = map.length;
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<n; j++){
-                System.out.print(map[i][j]);
-            }
-            System.out.println();
-        }
-    }
-    
+    }    
 }
