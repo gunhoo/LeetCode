@@ -16,8 +16,16 @@ class Solution {
     }
     
     private int findNext(int cur, int[][] jobs){
-        for(int next=cur+1; next<jobs.length; next++){
-            if(jobs[next][0] >= jobs[cur][1]) return next;
+        int l = cur + 1;
+        int r = jobs.length-1;
+        while(l <= r){
+            int m = l + (r-l)/2;
+            if(jobs[m][0] >= jobs[cur][1]){
+                if(jobs[m-1][0] >= jobs[cur][1]) r = m-1;
+                else return m;
+            } else {
+                l = m+1;
+            }
         }
         return -1;
     }
