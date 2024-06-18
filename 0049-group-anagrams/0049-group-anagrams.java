@@ -7,7 +7,7 @@ class Solution {
             String afterSort = new String(charArray);
             
             if(!map.containsKey(afterSort)){
-                map.put(afterSort, new LinkedList<>());
+                map.put(afterSort, new ArrayList<>());
             }
             
             map.get(afterSort).add(s);
