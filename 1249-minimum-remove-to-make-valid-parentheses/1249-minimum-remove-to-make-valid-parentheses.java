@@ -19,9 +19,7 @@ class Solution {
             if(c == '('){
                 q.add(new CharPoint(c, ans.length()+q.size()));
             } else if(c == ')'){
-                if(q.isEmpty()){
-                    // do nothing
-                } else {
+                if(!q.isEmpty()){
                     CharPoint cp = q.poll();
                     ans = ans.substring(0, cp.i) + cp.c + ans.substring(cp.i)+c;
                 }
