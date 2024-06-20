@@ -1,32 +1,28 @@
-class Solution {
-    
-    class CharPoint{
-        char c;
-        int i;
-        public CharPoint(char c, int i){
-            this.c = c;
-            this.i = i;
-        }
-    }
-    
+class Solution {    
     public String minRemoveToMakeValid(String s) {
-        Queue<CharPoint> q = new LinkedList<>();
-        String ans = "";
-        int cnt = 0;
-        
+        Set<Integer> indexToRemove = new HashSet<>();
+        Deque<Integer> stack = new ArrayDeque<>();
         for(int i=0; i<s.length(); i++){
             char c = s.charAt(i);
             if(c == '('){
-                q.add(new CharPoint(c, ans.length()+q.size()));
+                stack.push(i);
             } else if(c == ')'){
-                if(!q.isEmpty()){
-                    CharPoint cp = q.poll();
-                    ans = ans.substring(0, cp.i) + cp.c + ans.substring(cp.i)+c;
+                if(stack.isEmpty()){
+                    indexToRemove.add(i);
+                } else {
+                    stack.pop();
                 }
-            } else {
-                ans += c;
             }
         }
-        return ans;
+        
+        while(!stack.isEmpty()) indexToRemove.add(stack.pop());
+        
+        StringBuilder sb = new StringBuilder();
+        for(int i=0; i<s.length(); i++){
+            if(!indexToRemove.contains(i)){
+                sb.append(s.charAt(i));
+            }
+        }
+        return sb.toString();
     }
 }
