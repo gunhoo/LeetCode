@@ -5,16 +5,13 @@ class Solution {
         int[][] max = new int[n][n];
         
         for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
+            for(int j=0; j<=i; j++){
                 if(i==j){
                     min[i][j] = nums[i];
                     max[i][j] = nums[i];
-                } else if(i<j){
+                } else {
                     min[i][j] = 2000000003;
                     max[i][j] = -2000000003;
-                } else {
-                    min[i][j] = Integer.MAX_VALUE;
-                    max[i][j] = Integer.MIN_VALUE;
                 }
             }
         }
@@ -27,9 +24,9 @@ class Solution {
         }
         
         long answer = 0;
-        for(int i=0; i<n-1; i++){
-            for(int j=i+1; j<n; j++){
-                if(min[i][j] == 2000000003 || max[i][j] == -2000000003) continue;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                if(min[i][j] == 2000000003 || max[i][j] == -2000000003 || i==j) continue;
                 answer += (max[i][j] - min[i][j]);
             }
         }
