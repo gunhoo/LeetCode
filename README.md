@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -53,4 +54,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
