@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/gunhoo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
