@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 ## Matrix
@@ -46,12 +47,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -75,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
