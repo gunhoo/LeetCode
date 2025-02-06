@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/gunhoo/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/gunhoo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gunhoo/LeetCode/tree/master/0035-search-insert-position) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
