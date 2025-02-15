@@ -100,10 +100,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/gunhoo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/gunhoo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
