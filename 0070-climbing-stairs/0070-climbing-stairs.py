@@ -1,14 +1,18 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n < 2:
+        if n == 1:
             return 1
-        stairs = [0 for _ in range(n+1)]
+        if n == 2:
+            return 2
 
-        stairs[1] = 1
-        stairs[2] = 2
+        prev_1 = 1
+        prev_2 = 2
 
+        # 1,2 -> 3, (2,3) -> 5, (3,5) -> 8
+        temp = 0
         for i in range(3, n+1):
-            stairs[i] = stairs[i-1] + stairs[i-2]
+            temp = prev_1 + prev_2
+            prev_1 = prev_2
+            prev_2 = temp
 
-        return stairs[n]
-        
+        return temp
