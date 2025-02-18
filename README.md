@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gunhoo/LeetCode/tree/master/0053-maximum-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -94,10 +96,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -134,4 +138,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/gunhoo/LeetCode/tree/master/0383-ransom-note) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
