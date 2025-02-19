@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/gunhoo/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/gunhoo/LeetCode/tree/master/0383-ransom-note) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
 ## Stack
 |  |
 | ------- |
