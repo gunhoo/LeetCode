@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gunhoo/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gunhoo/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/gunhoo/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 ## Simulation
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gunhoo/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gunhoo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
