@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gunhoo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gunhoo/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gunhoo/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gunhoo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gunhoo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
