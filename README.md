@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/gunhoo/LeetCode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunhoo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/gunhoo/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/gunhoo/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/gunhoo/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gunhoo/LeetCode/tree/master/0383-ransom-note) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/gunhoo/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/gunhoo/LeetCode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/gunhoo/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gunhoo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 ## Divide and Conquer
@@ -190,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gunhoo/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -229,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gunhoo/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
