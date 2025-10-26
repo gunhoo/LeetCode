@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/gunhoo/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunhoo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gunhoo/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunhoo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/gunhoo/LeetCode/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/gunhoo/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gunhoo/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gunhoo/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunhoo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gunhoo/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunhoo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/gunhoo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/gunhoo/LeetCode/tree/master/0278-first-bad-version) |
