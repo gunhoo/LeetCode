@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/gunhoo/LeetCode/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gunhoo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gunhoo/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunhoo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
