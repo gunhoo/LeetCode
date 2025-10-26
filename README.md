@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [0830-largest-triangle-area](https://github.com/gunhoo/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gunhoo/LeetCode/tree/master/0070-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/gunhoo/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1610-xor-operation-in-an-array](https://github.com/gunhoo/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Tree
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/gunhoo/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
