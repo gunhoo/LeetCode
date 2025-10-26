@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/gunhoo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
+| [1610-xor-operation-in-an-array](https://github.com/gunhoo/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/gunhoo/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gunhoo/LeetCode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1610-xor-operation-in-an-array](https://github.com/gunhoo/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Tree
 |  |
 | ------- |
