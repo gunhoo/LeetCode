@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/gunhoo/LeetCode/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/gunhoo/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/gunhoo/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0485-max-consecutive-ones](https://github.com/gunhoo/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
