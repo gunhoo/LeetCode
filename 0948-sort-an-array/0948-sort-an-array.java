@@ -1,50 +1,46 @@
 class Solution {
-    private void merge(int[] array, int left, int mid, int right, int[] tmpArray){
-        int n1 = mid-left+1;
-        int n2 = right-mid;
+    private void merge(int[] nums, int left, int mid, int right, int[] tmpArr){
         int start1 = left;
         int start2 = mid+1;
+        int n1 = mid-left+1;
+        int n2 = right-mid;
 
         for(int i=0; i<n1; i++){
-            tmpArray[start1+i] = array[start1+i];
+            tmpArr[start1+i] = nums[start1+i];
         }
         for(int i=0; i<n2; i++){
-            tmpArray[start2+i] = array[start2+i];
+            tmpArr[start2+i] = nums[start2+i];
         }
 
         int i=0, j=0, k=left;
         while(i<n1 && j<n2){
-            if(tmpArray[start1+i] <= tmpArray[start2+j]){
-                array[k] = tmpArray[start1+i];
-                i++;
+            if(tmpArr[start1+i]<=tmpArr[start2+j]){
+                nums[k] = tmpArr[start1+i++];
             } else {
-                array[k] = tmpArray[start2+j];
-                j++;
+                nums[k] = tmpArr[start2+j++];
             }
             k++;
         }
+
         while(i<n1){
-            array[k++] = tmpArray[start1 + i++];
+            nums[k++] = tmpArr[start1+i++];
         }
         while(j<n2){
-            array[k++] = tmpArray[start2+ j++];
+            nums[k++] = tmpArr[start2+j++];
         }
-
     }
 
-    private void mergeSort(int[] nums, int left, int right, int[] tmpArray){
-        if(left >= right) return;
-        
-        int mid = (left + right) / 2;
-        
-        mergeSort(nums, left, mid, tmpArray);
-        mergeSort(nums, mid+1, right, tmpArray);
-        merge(nums, left, mid, right, tmpArray);
+    private void mergeSort(int[] nums, int left, int right, int[] tmpArr){
+        if(left>=right) return;
+        int mid = (left+right)/2;
+        mergeSort(nums, left, mid, tmpArr);
+        mergeSort(nums, mid+1, right, tmpArr);
+        merge(nums, left, mid, right, tmpArr);
     }
 
     public int[] sortArray(int[] nums) {
-        int[] tmpArray = new int[nums.length];
-        mergeSort(nums, 0, nums.length-1, tmpArray);
+        int[] tmpArr = new int[nums.length];
+        mergeSort(nums, 0, nums.length-1, tmpArr);
         return nums;
     }
 }
