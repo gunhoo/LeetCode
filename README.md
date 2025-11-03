@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/gunhoo/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/gunhoo/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Sliding Window
 |  |
 | ------- |
