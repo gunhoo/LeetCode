@@ -23,6 +23,7 @@ class Solution {
             long[] curr = pq.poll();
             int node = (int)curr[0];
             long d = curr[1];
+            if(d > dist[node]) continue;
             
             List<int[]> neighbors = map.get(node);
 
