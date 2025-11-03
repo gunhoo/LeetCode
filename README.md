@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
