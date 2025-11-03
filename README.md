@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/gunhoo/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/gunhoo/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
@@ -317,4 +318,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/gunhoo/LeetCode/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/gunhoo/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/gunhoo/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/gunhoo/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
