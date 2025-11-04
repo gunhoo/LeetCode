@@ -11,12 +11,8 @@ class Solution {
             stack.add(nums2[i]);
         }
 
-        while(!stack.isEmpty()){
-            map.put(stack.pop(), -1);
-        }
-
         for(int i=0; i<nums1.length; i++){
-            answer[i] = map.get(nums1[i]);
+            answer[i] = map.getOrDefault(nums1[i],-1);
         }
 
         return answer;
