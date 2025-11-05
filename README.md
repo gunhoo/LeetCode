@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gunhoo/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gunhoo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gunhoo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gunhoo/LeetCode/tree/master/0015-3sum) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gunhoo/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/gunhoo/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/gunhoo/LeetCode/tree/master/0217-contains-duplicate) |
