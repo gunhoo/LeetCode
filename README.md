@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/gunhoo/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/gunhoo/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
+| [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/gunhoo/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
