@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/gunhoo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/gunhoo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
