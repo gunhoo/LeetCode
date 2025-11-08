@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/gunhoo/LeetCode/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/gunhoo/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/gunhoo/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/gunhoo/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Math
@@ -283,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/gunhoo/LeetCode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/gunhoo/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -347,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
+| [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Merge Sort
 |  |
 | ------- |
