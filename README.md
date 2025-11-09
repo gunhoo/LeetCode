@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/gunhoo/LeetCode/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gunhoo/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/gunhoo/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gunhoo/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gunhoo/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/gunhoo/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gunhoo/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gunhoo/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
