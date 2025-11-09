@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/gunhoo/LeetCode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/gunhoo/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
+| [1236-n-th-tribonacci-number](https://github.com/gunhoo/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gunhoo/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/gunhoo/LeetCode/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/gunhoo/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/gunhoo/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/gunhoo/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gunhoo/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Tree
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/gunhoo/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/gunhoo/LeetCode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/gunhoo/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
