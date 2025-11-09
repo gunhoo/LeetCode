@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/gunhoo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/gunhoo/LeetCode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/gunhoo/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/gunhoo/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/gunhoo/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/gunhoo/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0485-max-consecutive-ones](https://github.com/gunhoo/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gunhoo/LeetCode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/gunhoo/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/gunhoo/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/gunhoo/LeetCode/tree/master/0621-task-scheduler) |
