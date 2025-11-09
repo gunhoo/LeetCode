@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/gunhoo/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/gunhoo/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/gunhoo/LeetCode/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/gunhoo/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/gunhoo/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gunhoo/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gunhoo/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/gunhoo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/gunhoo/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gunhoo/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gunhoo/LeetCode/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Sliding Window
 |  |
