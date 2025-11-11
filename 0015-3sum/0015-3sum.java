@@ -1,27 +1,35 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        int n=nums.length;
+        List<List<Integer>> answer = new ArrayList<>();
         Arrays.sort(nums);
-        List<List<Integer>> ans = new LinkedList<>();
-        for(int i=0; i<n-2; i++){
-            if(i>0 && nums[i] == nums[i-1]) continue;
-            int j=i+1;
-            int k=n-1;
-            while(j<k){
-                int sum = nums[i]+nums[j]+nums[k];
-                if(sum == 0){
-                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    j++; k--;
-                    while(j<k && nums[j] == nums[j-1]) j++;
-                    while(j<k && nums[k] == nums[k+1]) k--;
-                } else if(sum < 0){
-                    j++;
-                } else if(sum > 0){
-                    k--;
+        Set<List<Integer>> set = new HashSet<>();
+        for(int i=0; i<nums.length-2; i++){
+            int l=i+1, r=nums.length-1;
+            while(l<r){
+                if(nums[i]+nums[l]+nums[r]==0) {
+                    List<Integer> list = new ArrayList<>();
+                    list.add(nums[i]); list.add(nums[l]); list.add(nums[r]);
+                    set.add(list);
+                    l++;
                 }
+                else if(nums[i]+nums[l]+nums[r] < 0) l++;
+                else r--;
             }
         }
-        return ans;
+        for(List<Integer> list: set){
+            answer.add(list);
+        }
+        return answer;
     }
-
 }
+
+// 1. Brute force -> O(n^3) O(n)
+// 2. Two pointers O(n^2)
+// for i=0; i<nums.length-3; i++
+//      int curr = nums[i];
+//      int l=i+1, r=nums.length-1;
+//      while(l<r)
+//          if(nums[i]+nums[l]+nums[r] == 0) answer.add(new ArrayList<>({i, l, r}));
+//          if(nums[i]+nums[l]+nums[r] < 0) l++;
+//          else r--;
+//  return answer;
