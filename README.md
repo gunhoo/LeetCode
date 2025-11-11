@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/gunhoo/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/gunhoo/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/gunhoo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/gunhoo/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/gunhoo/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/gunhoo/LeetCode/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gunhoo/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [1036-rotting-oranges](https://github.com/gunhoo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
