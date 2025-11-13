@@ -1,9 +1,4 @@
 class Solution {
-    // MCM 1000 + 100 + (1000 - 200)
-    // IX 1 + (10 -2)
-    // XI 10 + 1
-    // MCMIV => 1000 + 100 + (1000 - 200) + 1 + (10-2)
-
     public int romanToInt(String s) {
         int answer = 0;
         char prev = s.charAt(0);
