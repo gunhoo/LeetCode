@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gunhoo/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gunhoo/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/gunhoo/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
 ## Binary Search
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/gunhoo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gunhoo/LeetCode/tree/master/0724-find-pivot-index) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/gunhoo/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/gunhoo/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
