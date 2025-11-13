@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gunhoo/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gunhoo/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3763-separate-squares-i](https://github.com/gunhoo/LeetCode/tree/master/3763-separate-squares-i) |
 ## Binary Search
