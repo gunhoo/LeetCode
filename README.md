@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/gunhoo/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/gunhoo/LeetCode/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/gunhoo/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [0861-flipping-an-image](https://github.com/gunhoo/LeetCode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/gunhoo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/gunhoo/LeetCode/tree/master/0948-sort-an-array) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/gunhoo/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/gunhoo/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/gunhoo/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2428-equal-row-and-column-pairs](https://github.com/gunhoo/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/gunhoo/LeetCode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/gunhoo/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/gunhoo/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gunhoo/LeetCode/tree/master/0733-flood-fill) |
+| [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/gunhoo/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gunhoo/LeetCode/tree/master/0733-flood-fill) |
+| [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [1036-rotting-oranges](https://github.com/gunhoo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gunhoo/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -344,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/gunhoo/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gunhoo/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
+| [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/gunhoo/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Interactive
 |  |
