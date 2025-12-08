@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/gunhoo/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/gunhoo/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0715-range-module](https://github.com/gunhoo/LeetCode/tree/master/0715-range-module) |
 ## Queue
 |  |
 | ------- |
@@ -498,4 +499,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gunhoo/LeetCode/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/gunhoo/LeetCode/tree/master/0715-range-module) |
+## Ordered Set
+|  |
+| ------- |
+| [0715-range-module](https://github.com/gunhoo/LeetCode/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
