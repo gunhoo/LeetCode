@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/gunhoo/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gunhoo/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/gunhoo/LeetCode/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/gunhoo/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0721-accounts-merge](https://github.com/gunhoo/LeetCode/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
