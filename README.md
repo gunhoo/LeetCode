@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0839-similar-string-groups](https://github.com/gunhoo/LeetCode/tree/master/0839-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/gunhoo/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/gunhoo/LeetCode/tree/master/0889-buddy-strings) |
+| [1143-longest-common-subsequence](https://github.com/gunhoo/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/gunhoo/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1397-search-suggestions-system](https://github.com/gunhoo/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Stack
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/gunhoo/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/gunhoo/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/gunhoo/LeetCode/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/gunhoo/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/gunhoo/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gunhoo/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gunhoo/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
